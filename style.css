@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+
+h1{
+    color: midnightblue;
+}
+
+#map{
+    height: 500px;
+    width: 100%;
+    border: 5px solid red;
+}
